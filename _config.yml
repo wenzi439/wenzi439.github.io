@@ -213,7 +213,7 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
   海贼王: https://manhua.fzdm.com/02//
 
@@ -258,7 +258,7 @@ toc:
 sidebar:
   # Sidebar Position, available value: left | right
   #position: left
-  #position: right
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -266,9 +266,9 @@ sidebar:
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
   #display: post
-  #display: always
+  display: always
   #display: hide
-  display: remove
+  #display: remove
 
   # Sidebar offset from top menubar in pixels.
   offset: 12
