@@ -120,8 +120,8 @@ menu:
   home: /
   #categories: /categories/
   #about: /about/
-  archives: /归档/
-  tags: /标签/
+  archives: /archive/
+  tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
