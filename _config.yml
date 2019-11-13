@@ -215,7 +215,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
-
+  海贼王: https://manhua.fzdm.com/02//
 
 # Social Links Icons
 # Icon Mapping:
@@ -229,6 +229,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  海贼王: onepiece
 
 
 # Sidebar Avatar
